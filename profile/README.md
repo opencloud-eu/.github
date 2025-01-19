@@ -10,7 +10,7 @@ Let's connect! We'll be in Brussels in Feb 2025 to talk about open source and sh
 **Self-Hosted File Sharing**
 Secure, Simple and Reliable
 
-![Image](web-ui-gallery-view-optimized.jpg)
+![Screenshot of the OpenCloud web UI showcasing its capabilities.](https://raw.githubusercontent.com/opencloud-eu/.github/refs/heads/main/profile/web-ui-gallery-view-optimized.jpg)
 
 OpenCloud is an open-source project that gives you a secure and private way to store, access, and share your files.
 
