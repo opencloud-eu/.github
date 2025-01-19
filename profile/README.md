@@ -46,10 +46,6 @@ The first release will be in **March 2025** - stay tuned
 - **Cross-Platform**: Available for Windows, macOS, and Linux
 - **File Synchronization**: Keeps your files synchronized across devices, with options for selective sync to manage storage.
 
-### 📱 Mobile Apps iOS and Android
-
-- **Platforms**: Native applications for iOS and Android devices.
-
 ## Features You’ll Love
 
 - 🚀 Fast, simple, and clean user interface  
@@ -59,7 +55,7 @@ The first release will be in **March 2025** - stay tuned
 - 🔄 Reliable, fault-tolerant file synchronization  
 - 🔗 Flexible sharing options  
 - 🌐 Share files with public links  
-- 🗂️ **Spaces**: Dedicated project folders designed to simplify team collaboration  
+- 🗂️ **Workspaces**: Dedicated project folders designed to simplify team collaboration
 - 🛠️ Integrations with tools like Markdown Editor (ToastUI) and Web Office (Collabora)  
 - 🕒 File history to track changes and restore previous versions  
 - 📱 Multi-device sync with offline access across all your devices  
