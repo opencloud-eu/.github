@@ -70,6 +70,6 @@ We’d love to hear from you! Whether you have questions, feedback, or want to g
 - **Chat**: [OpenCloud on Matrix](https://matrix.to/#/#opencloud:matrix.org) - Any discussion about OpenCloud.
 - **Email**: [mail@opencloud.eu](mailto:mail@opencloud.eu) – For any direct questions.
 - **Mastodon**: [OpenCloud on Mastodon](https://social.opencloud.eu/@OpenCloud) – Follow us for the latest updates and join the conversation.
-- **GitHub Discussions**: [Join the Discussion](https://github.com/OpenCloud/discussions) – Ask questions, share ideas, and engage with the community.
+- **GitHub Discussions**: [Join the Discussion](https://github.com/orgs/opencloud-eu/discussions) – Ask questions, share ideas, and engage with the community.
 
 We’re excited to have you join us on this journey to build a secure, open, and community-driven cloud platform!
