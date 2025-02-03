@@ -1,10 +1,3 @@
-------
-
- #### 🍺 Let's meet at the FOSDEM Conference 2025 in Brussels! 🍺 
-Let's connect! We'll be in Brussels in Feb 2025 to talk about open source and share ideas and some beers. Give us a ping on [Mastodon](https://social.opencloud.eu/@OpenCloud) so we can meet!
-
-------
-
 # Welcome to OpenCloud 👋🏼
 
 **Self-Hosted File Sharing**
