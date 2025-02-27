@@ -1,7 +1,17 @@
-# Welcome to OpenCloud 👋🏼
+<h1 align="center">Welcome to OpenCloud 👋🏼</h1>
 
-**Self-Hosted File Sharing**
-Secure, Simple and Reliable
+<p align="center"><strong>Self-Hosted File Sharing</strong></p>
+<p align="center">Secure, Simple and Reliable</p>
+
+<h3 align="center">
+  <b><a href="https://github.com/opencloud-eu/docs/blob/main/docs/admin/installation/docker-compose.md">Get Started</a></b>
+  •
+  <a href="https://github.com/opencloud-eu/opencloud/releases/tag/v1.0.0">Download</a>
+  •
+  <a href="https://github.com/orgs/opencloud-eu/discussions">Discussions</a>
+  •
+  <a href="https://github.com/opencloud-eu/docs/blob/main/docs/admin/intro.md#technical-datasheet">Datasheet</a>
+  </h3>
 
 ![Screenshot of the OpenCloud web UI showcasing its capabilities.](https://raw.githubusercontent.com/opencloud-eu/.github/refs/heads/main/profile/web-ui-gallery-view-optimized.jpg)
 
