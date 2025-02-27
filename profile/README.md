@@ -6,7 +6,7 @@
 <h3 align="center">
   <b><a href="https://github.com/opencloud-eu/docs/blob/main/docs/admin/installation/docker-compose.md">Get Started</a></b>
   •
-  <a href="https://github.com/opencloud-eu/opencloud/releases/tag/v1.0.0">Download</a>
+  <a href="https://github.com/opencloud-eu/opencloud/releases/latest">Download</a>
   •
   <a href="https://github.com/orgs/opencloud-eu/discussions">Discussions</a>
   •
