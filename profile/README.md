@@ -4,13 +4,15 @@
 <p align="center">Secure, Simple and Reliable</p>
 
 <h3 align="center">
-  <b><a href="https://github.com/opencloud-eu/docs/blob/main/docs/admin/installation/docker-compose.md">Get Started</a></b>
+  <b><a href="https://docs.opencloud.eu/docs/admin/getting-started/docker-compose">Get Started</a></b>
   •
   <a href="https://github.com/opencloud-eu/opencloud/releases/latest">Download</a>
   •
   <a href="https://github.com/orgs/opencloud-eu/discussions">Discussions</a>
   •
-  <a href="https://github.com/opencloud-eu/docs/blob/main/docs/admin/intro.md#technical-datasheet">Datasheet</a>
+  <a href="https://docs.opencloud.eu/docs/admin/welcome/datasheet">Datasheet</a>
+  •
+  <a href="https://docs.opencloud.eu/">Documentation</a>
   </h3>
 
 ![Screenshot of the OpenCloud web UI showcasing its capabilities.](https://raw.githubusercontent.com/opencloud-eu/.github/refs/heads/main/profile/web-ui-gallery-view-optimized.jpg)
