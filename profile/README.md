@@ -26,11 +26,14 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 | OpenCloud provides tools to help everyone work together, no matter where they are. | Your data stays with you, reducing the risk of unauthorized access or third-party breaches. | Minimize maintenance efforts while bringing the convenience of SaaS to your self-hosted cloud on-premises. |
 
 
-## How To Get Started _(coming soon!)_
+## How To Get Started
 
-The first release will be in **March 2025** - stay tuned
+- **[Docker Compose](https://docs.opencloud.eu/docs/admin/getting-started/docker-compose)** 🌟 Full-blown featureset including web office and full-text search 
+- **[Docker](https://docs.opencloud.eu/docs/admin/getting-started/docker)** Classic docker setup 
+- **[Bare-Metal](https://docs.opencloud.eu/docs/admin/getting-started/bare-metal)** Manual, minimalist setup with essential features 
 
-## What’s Inside? _(coming soon!)_
+
+## What’s Inside?
 
 ### ☁️ Server Backend
 
@@ -46,7 +49,7 @@ The first release will be in **March 2025** - stay tuned
 - **Functionality**: Allows seamless file uploads, downloads, sharing, and real-time collaboration.
 - **Customization**: Enables you to personalize your Interface  with themes and extensions.
 
-### 🖥️ Desktop Client
+### 🖥️ Desktop Client (Coming end of March 2025)
 
 - **Cross-Platform**: Available for Windows, macOS, and Linux
 - **File Synchronization**: Keeps your files synchronized across devices, with options for selective sync to manage storage.
