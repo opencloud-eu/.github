@@ -69,6 +69,8 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 - 📱 Multi-device sync with offline access across all your devices  
 - and many more ...
 
+## Roadmap
+- Get an idea about our priorities and long-term plans: [Roadmap](https://opencloud.eu/roadmap)
 
 
 ## Contact Us
