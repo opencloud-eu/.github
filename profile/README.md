@@ -29,7 +29,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 ## How To Get Started
 
 - **[Docker Compose](https://docs.opencloud.eu/docs/admin/getting-started/docker/docker-compose-local)** 🌟 Full-blown feature set including web office and full-text search 
-- **[Docker](https://docs.opencloud.eu/docs/admin/getting-started/docker/docker)** Classic docker setup 
+- **[Docker](https://docs.opencloud.eu/docs/admin/getting-started/docker)** Classic docker setup 
 - **[Bare-Metal](https://docs.opencloud.eu/docs/admin/getting-started/other/bare-metal)** Manual, minimalist setup with essential features 
 
 
