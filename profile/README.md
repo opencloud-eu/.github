@@ -42,7 +42,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 - **Architecture**: Built with a microservices approach
 
 
-### 😎 Web Frontend
+### 🐻 Web Frontend
 
 - **Framework**: Built using _Vue.js_ and _TypeScript_
 - **Design**: Offers a clean and intuitive interface for easy navigation and file management.
