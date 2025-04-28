@@ -49,7 +49,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 - **Functionality**: Allows seamless file uploads, downloads, sharing, and real-time collaboration.
 - **Customization**: Enables you to personalize your Interface  with themes and extensions.
 
-### 🖥️ Desktop Client (Coming end of April 2025)
+### 🖥️ Desktop Client
 
 - **Cross-Platform**: Available for Windows, macOS, and Linux
 - **File Synchronization**: Keeps your files synchronized across devices, with options for selective sync to manage storage.
