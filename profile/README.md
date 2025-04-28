@@ -4,7 +4,7 @@
 <p align="center">Secure, Simple and Reliable</p>
 
 <h3 align="center">
-  <b><a href="https://docs.opencloud.eu/docs/admin/getting-started/docker/docker-compose-local">Get Started</a></b>
+  <b><a href="https://docs.opencloud.eu/docs/admin/getting-started/container/docker-compose-local">Get Started</a></b>
   •
   <a href="https://github.com/opencloud-eu/opencloud/releases/latest">Download</a>
   •
@@ -28,8 +28,8 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 
 ## How To Get Started
 
-- **[Docker Compose](https://docs.opencloud.eu/docs/admin/getting-started/docker/docker-compose-local)** 🌟 Full-blown feature set including web office and full-text search 
-- **[Docker](https://docs.opencloud.eu/docs/admin/getting-started/docker)** Classic docker setup 
+- **[Docker Compose](https://docs.opencloud.eu/docs/admin/getting-started/container/docker-compose-local)** 🌟 Full-blown feature set including web office and full-text search 
+- **[Docker](https://docs.opencloud.eu/docs/admin/getting-started/container/docker)** Classic docker setup 
 - **[Bare-Metal](https://docs.opencloud.eu/docs/admin/getting-started/other/bare-metal)** Manual, minimalist setup with essential features 
 
 
