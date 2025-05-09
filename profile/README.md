@@ -72,6 +72,12 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 ## Roadmap
 - Get an idea about our priorities and long-term plans: [Roadmap](https://opencloud.eu/roadmap)
 
+## Ways to Collaborate
+
+There are tasks available for everyone, such as:
+- Translation: You can assist in translating the UI through [Transifex](https://explore.transifex.com/opencloud-eu/opencloud-eu/) platform
+- You can shape the documentation at [docs.opencloud.eu](https://docs.opencloud.eu/docs/user/intro) through the following repository: [docs](https://github.com/opencloud-eu/docs)
+
 
 ## Contact Us
 
