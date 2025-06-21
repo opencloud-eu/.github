@@ -84,7 +84,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
         <img src="https://img.icons8.com/ios-filled/50/000000/windows-logo.png" alt="Windows" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
-        <a href="https://apps.microsoft.com/detail/9pbx43hcmldq?mode=direct">
+        <a target="_blank" href="https://apps.microsoft.com/detail/9pbx43hcmldq?mode=direct">
           <img src="https://img.shields.io/badge/Download-Microsoft_Store-20434f?style=for-the-badge&logo=microsoft&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
         </a><br/>
       </td>
@@ -94,7 +94,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
         <img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="macOS" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
-        <a href="https://github.com/opencloud/opencloud/releases/latest/download/OpenCloud-macOS.pkg">
+        <a target="_blank" href="https://github.com/opencloud/opencloud/releases/latest/download/OpenCloud-macOS.pkg">
           <img src="https://img.shields.io/badge/Download-pkg-20434f?style=for-the-badge&logo=apple&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
         </a><br/>
       </td>
@@ -104,7 +104,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
         <img src="https://img.icons8.com/ios-filled/50/000000/linux.png" alt="Linux" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
-        <a href="https://github.com/opencloud-eu/desktop/releases/download/v1.0.0/OpenCloud_Desktop-v1.0.0-linux-gcc-x86_64.AppImage">
+        <a target="_blank" href="https://github.com/opencloud-eu/desktop/releases/download/v1.0.0/OpenCloud_Desktop-v1.0.0-linux-gcc-x86_64.AppImage">
           <img src="https://img.shields.io/badge/Download-AppImage-20434f?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
         </a><br/>
       </td>
@@ -129,7 +129,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
       <td align="left" style="background-color:#ffffff;">
 Coming soon
         <!-- <a href="#">
-          <img src="https://img.shields.io/badge/Download-Play_Store-20434f?style=for-the-badge&logo=google-play&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;"/>
+          <img target="_blank" src="https://img.shields.io/badge/Download-Play_Store-20434f?style=for-the-badge&logo=google-play&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
         </a> -->
 <br/>
       </td>
@@ -139,7 +139,7 @@ Coming soon
         <img src="https://img.icons8.com/ios-filled/50/000000/ios-logo.png" alt="iOS" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
-        <a href="https://apps.apple.com/de/app/id6743121005">
+        <a target="_blank" href="https://apps.apple.com/de/app/id6743121005">
           <img src="https://img.shields.io/badge/Download-App_Store-20434f?style=for-the-badge&logo=appstore&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
         </a><br/>
       </td>
