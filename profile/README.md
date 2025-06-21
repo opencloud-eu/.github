@@ -4,7 +4,7 @@
 <p align="center">Secure, Simple and Reliable</p>
 
 <h3 align="center">
-  <b><a href="https://docs.opencloud.eu/docs/admin/getting-started/container/docker-compose-local">Get Started</a></b>
+  <b><a target="_blank" href="https://docs.opencloud.eu/docs/admin/getting-started/container/docker-compose-local">Get Started</a></b>
   •
   <a href="https://github.com/opencloud-eu/.github/edit/main/profile/README.md#download-desktop-app">Download</a>
   •
@@ -94,7 +94,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
         <img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="macOS" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
-        <a target="_blank" href="https://github.com/opencloud/opencloud/releases/latest/download/OpenCloud-macOS.pkg">
+        <a href="https://github.com/opencloud/opencloud/releases/latest/download/OpenCloud-macOS.pkg">
           <img src="https://img.shields.io/badge/Download-pkg-20434f?style=for-the-badge&logo=apple&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
         </a><br/>
       </td>
