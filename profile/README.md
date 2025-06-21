@@ -85,7 +85,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
       </td>
       <td align="left" style="background-color:#ffffff;">
         <a href="https://apps.microsoft.com/detail/9pbx43hcmldq?mode=direct">
-          <img src="https://img.shields.io/badge/Download-Microsoft_Store-20434f?style=for-the-badge&logo=microsoft&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;"/>
+          <img src="https://img.shields.io/badge/Download-Microsoft_Store-20434f?style=for-the-badge&logo=microsoft&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
         </a><br/>
       </td>
     </tr>
@@ -95,7 +95,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
       </td>
       <td align="left" style="background-color:#ffffff;">
         <a href="https://github.com/opencloud/opencloud/releases/latest/download/OpenCloud-macOS.pkg">
-          <img src="https://img.shields.io/badge/Download-pkg-20434f?style=for-the-badge&logo=apple&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;"/>
+          <img src="https://img.shields.io/badge/Download-pkg-20434f?style=for-the-badge&logo=apple&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
         </a><br/>
       </td>
     </tr>
@@ -105,7 +105,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
       </td>
       <td align="left" style="background-color:#ffffff;">
         <a href="https://github.com/opencloud-eu/desktop/releases/download/v1.0.0/OpenCloud_Desktop-v1.0.0-linux-gcc-x86_64.AppImage">
-          <img src="https://img.shields.io/badge/Download-AppImage-20434f?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;"/>
+          <img src="https://img.shields.io/badge/Download-AppImage-20434f?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
         </a><br/>
       </td>
     </tr>
