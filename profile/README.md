@@ -140,7 +140,7 @@ Coming soon
       </td>
       <td align="left" style="background-color:#ffffff;">
         <a href="https://apps.apple.com/de/app/id6743121005">
-          <img src="https://img.shields.io/badge/Download-App_Store-20434f?style=for-the-badge&logo=appstore&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;"/>
+          <img src="https://img.shields.io/badge/Download-App_Store-20434f?style=for-the-badge&logo=appstore&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
         </a><br/>
       </td>
     </tr>
