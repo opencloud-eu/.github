@@ -81,7 +81,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
   <tbody>
     <tr>
       <td align="center" style="background-color:#ffffff;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/windows-logo.png" alt="Windows" style="height:28px"/>
+        <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="Windows" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
         <a target="_blank" href="https://apps.microsoft.com/detail/9pbx43hcmldq?mode=direct">
@@ -91,7 +91,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
     </tr>
     <tr>
       <td align="center" style="background-color:#ffffff;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="macOS" style="height:28px"/>
+        <img src="https://img.icons8.com/?size=100&id=30659&format=png&color=000000" alt="macOS" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
         <a href="https://github.com/opencloud/opencloud/releases/latest/download/OpenCloud-macOS.pkg">
@@ -101,7 +101,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
     </tr>
     <tr>
       <td align="center" style="background-color:#ffffff;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/linux.png" alt="Linux" style="height:28px"/>
+        <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
         <a target="_blank" href="https://github.com/opencloud-eu/desktop/releases/download/v1.0.0/OpenCloud_Desktop-v1.0.0-linux-gcc-x86_64.AppImage">
@@ -124,7 +124,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
   <tbody>
     <tr>
       <td align="center" style="background-color:#ffffff;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/android-os.png" alt="Android" style="height:28px"/>
+        <img src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" alt="Android" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
 Coming soon
@@ -136,7 +136,7 @@ Coming soon
     </tr>
     <tr>
       <td align="center" style="background-color:#ffffff;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/ios-logo.png" alt="iOS" style="height:28px"/>
+        <img src="https://img.icons8.com/?size=100&id=20822&format=png&color=000000" alt="iOS" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
         <a target="_blank" href="https://apps.apple.com/de/app/id6743121005">
@@ -146,6 +146,7 @@ Coming soon
     </tr>
   </tbody>
 </table>
+
 
 
 
