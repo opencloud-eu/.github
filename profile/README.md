@@ -91,7 +91,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
     </tr>
     <tr>
       <td align="center" style="background-color:#ffffff;">
-        <img src="https://img.icons8.com/?size=100&id=30659&format=png&color=000000" alt="macOS" style="height:28px"/>
+        <img src="https://img.icons8.com/?size=100&id=48112&format=png&color=000000" alt="macOS" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
         <a href="https://github.com/opencloud-eu/desktop/releases/download/v1.0.0/OpenCloud_Desktop-v1.0.0-macos-clang-arm64.pkg">
@@ -136,7 +136,7 @@ Coming soon
     </tr>
     <tr>
       <td align="center" style="background-color:#ffffff;">
-        <img src="https://img.icons8.com/?size=100&id=20822&format=png&color=000000" alt="iOS" style="height:28px"/>
+        <img src="https://img.icons8.com/?size=100&id=79089&format=png&color=000000" alt="iOS" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
         <a target="_blank" href="https://apps.apple.com/de/app/id6743121005">
