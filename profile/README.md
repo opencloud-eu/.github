@@ -4,9 +4,9 @@
 <p align="center">Secure, Simple and Reliable</p>
 
 <h3 align="center">
-  <b><a href="https://docs.opencloud.eu/docs/admin/getting-started/container/docker-compose-local">Get Started</a></b>
+  <b><a target="_blank" href="https://docs.opencloud.eu/docs/admin/getting-started/container/docker-compose-local">Get Started</a></b>
   •
-  <a href="https://github.com/opencloud-eu/opencloud/releases/latest">Download</a>
+  <a href="https://github.com/opencloud-eu/.github/edit/main/profile/README.md#download-desktop-app">Download</a>
   •
   <a href="https://github.com/orgs/opencloud-eu/discussions">Discussions</a>
   •
@@ -68,6 +68,88 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 - 🕒 File history to track changes and restore previous versions  
 - 📱 Multi-device sync with offline access across all your devices  
 - and many more ...
+
+### Download Desktop App
+
+<table>
+  <thead>
+    <tr>
+      <th>Platform</th>
+      <th>Download</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="background-color:#ffffff;">
+        <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="Windows" style="height:28px"/>
+      </td>
+      <td align="left" style="background-color:#ffffff;">
+        <a target="_blank" href="https://apps.microsoft.com/detail/9pbx43hcmldq?mode=direct">
+          <img src="https://img.shields.io/badge/Download-Microsoft_Store-20434f?style=for-the-badge&logo=microsoft&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
+        </a><br/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background-color:#ffffff;">
+        <img src="https://img.icons8.com/?size=100&id=30659&format=png&color=000000" alt="macOS" style="height:28px"/>
+      </td>
+      <td align="left" style="background-color:#ffffff;">
+        <a href="https://github.com/opencloud-eu/desktop/releases/download/v1.0.0/OpenCloud_Desktop-v1.0.0-macos-clang-arm64.pkg">
+          <img src="https://img.shields.io/badge/Download-pkg-20434f?style=for-the-badge&logo=apple&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
+        </a><br/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background-color:#ffffff;">
+        <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" style="height:28px"/>
+      </td>
+      <td align="left" style="background-color:#ffffff;">
+        <a target="_blank" href="https://github.com/opencloud-eu/desktop/releases/download/v1.0.0/OpenCloud_Desktop-v1.0.0-linux-gcc-x86_64.AppImage">
+          <img src="https://img.shields.io/badge/Download-AppImage-20434f?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
+        </a><br/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Download Mobile App
+
+<table>
+  <thead>
+    <tr>
+      <th>Platform</th>
+      <th>Download</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="background-color:#ffffff;">
+        <img src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" alt="Android" style="height:28px"/>
+      </td>
+      <td align="left" style="background-color:#ffffff;">
+Coming soon
+        <!-- <a href="#">
+          <img target="_blank" src="https://img.shields.io/badge/Download-Play_Store-20434f?style=for-the-badge&logo=google-play&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
+        </a> -->
+<br/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background-color:#ffffff;">
+        <img src="https://img.icons8.com/?size=100&id=20822&format=png&color=000000" alt="iOS" style="height:28px"/>
+      </td>
+      <td align="left" style="background-color:#ffffff;">
+        <a target="_blank" href="https://apps.apple.com/de/app/id6743121005">
+          <img src="https://img.shields.io/badge/Download-App_Store-20434f?style=for-the-badge&logo=appstore&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
+        </a><br/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 
 ## Roadmap
 - Get an idea about our priorities and long-term plans: [Roadmap](https://opencloud.eu/roadmap)
