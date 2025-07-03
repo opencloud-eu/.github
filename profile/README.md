@@ -94,7 +94,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
         <img src="https://img.icons8.com/?size=100&id=48112&format=png&color=000000" alt="macOS" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
-        <a href="https://github.com/opencloud-eu/desktop/releases/download/v1.0.0/OpenCloud_Desktop-v1.0.0-macos-clang-arm64.pkg">
+        <a href="https://github.com/opencloud-eu/desktop/releases/download/v2.0.0/OpenCloud_Desktop-v2.0.0-macos-clang-arm64.pkg">
           <img src="https://img.shields.io/badge/Download-pkg-20434f?style=for-the-badge&logo=apple&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
         </a><br/>
       </td>
@@ -104,7 +104,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
         <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" style="height:28px"/>
       </td>
       <td align="left" style="background-color:#ffffff;">
-        <a target="_blank" href="https://github.com/opencloud-eu/desktop/releases/download/v1.0.0/OpenCloud_Desktop-v1.0.0-linux-gcc-x86_64.AppImage">
+        <a target="_blank" href="https://github.com/opencloud-eu/desktop/releases/download/v2.0.0/OpenCloud_Desktop-v2.0.0-linux-gcc-x86_64.AppImage">
           <img src="https://img.shields.io/badge/Download-AppImage-20434f?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=20434f&color=20434f&label=Download" style="width:200px;height:28px;"/>
         </a><br/>
       </td>
