@@ -69,7 +69,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 - 📱 Multi-device sync with offline access across all your devices  
 - and many more ...
 
-### Download Desktop App
+### 💻 Download Desktop App
 
 |  Platform  |  Download |
 |:----------|:----------|
@@ -79,7 +79,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 | Linux | [![Download AppImage](https://img.shields.io/badge/AppImage-Download-20434f?logo=Linux&logoColor=white)](https://github.com/opencloud-eu/desktop/releases/download/v2.0.0/OpenCloud_Desktop-v2.0.0-linux-gcc-x86_64.AppImage) |
 
 
-### Download Mobile App
+### 📱 Download Mobile App
 
 |  Platform  |  Download  |
 |:----------|:----------|
