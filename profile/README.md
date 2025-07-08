@@ -6,7 +6,7 @@
 <h3 align="center">
   <b><a target="_blank" href="https://docs.opencloud.eu/docs/admin/getting-started/container/docker-compose-local">Get Started</a></b>
   •
-  <a href="https://github.com/opencloud-eu/.github/edit/main/profile/README.md#download-desktop-app">Download</a>
+  <a href="https://github.com/opencloud-eu#-download-desktop-app">Download</a>
   •
   <a href="https://github.com/orgs/opencloud-eu/discussions">Discussions</a>
   •
