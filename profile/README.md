@@ -102,7 +102,7 @@ There are tasks available for everyone, such as:
 We’d love to hear from you! Whether you have questions, feedback, or want to get involved, here’s how to reach us:
 
 - **Chat**: [OpenCloud on Matrix](https://matrix.to/#/#opencloud:matrix.org) - Any discussion about OpenCloud.
-- **Email**: [mail@opencloud.eu](mailto:mail@opencloud.eu) – For any direct questions.
+- **Email**: [community@opencloud.eu](mailto:community@opencloud.eu) – For any direct questions.
 - **Mastodon**: [OpenCloud on Mastodon](https://social.opencloud.eu/@OpenCloud) – Follow us for the latest updates and join the conversation.
 - **GitHub Discussions**: [Join the Discussion](https://github.com/orgs/opencloud-eu/discussions) – Ask questions, share ideas, and engage with the community.
 - **Security**: Check our [Security Policy](SECURITY.md)
