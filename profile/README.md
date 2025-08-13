@@ -81,10 +81,10 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 
 ### 📱 Download Mobile App
 
-|  Platform  |  Download  |
-|:----------|:----------|
-| Android | Coming soon |
-| iOS | [![Download on App Store](https://img.shields.io/badge/App%20Store-Download-20434f?logo=Appstore&logoColor=white)](https://apps.apple.com/de/app/id6743121005) |
+|  Platform  | Download                                                                                                                                                                                         |
+|:----------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Android | [![Download on Google Play Store](https://img.shields.io/badge/Google_Play-Download-20434f?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=eu.opencloud.android) |
+| iOS | [![Download on App Store](https://img.shields.io/badge/App%20Store-Download-20434f?logo=Appstore&logoColor=white)](https://apps.apple.com/de/app/id6743121005)                                   |
 
 
 ## Roadmap
