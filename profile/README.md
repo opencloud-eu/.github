@@ -45,14 +45,14 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 ### 🐻 Web Frontend
 
 - **Framework**: Built using _Vue.js_ and _TypeScript_
-- **Design**: Offers a clean and intuitive interface for easy navigation and file management.
-- **Functionality**: Allows seamless file uploads, downloads, sharing, and real-time collaboration.
-- **Customization**: Enables you to personalize your Interface  with themes and extensions.
+- **Design**: Offers a clean and intuitive interface for easy navigation and file management
+- **Functionality**: Allows seamless file uploads, downloads, sharing, and real-time collaboration
+- **Customization**: Enables you to personalize your Interface  with themes and extensions
 
 ### 🖥️ Desktop Client
 
 - **Cross-Platform**: Available for Windows, macOS, and Linux
-- **File Synchronization**: Keeps your files synchronized across devices, with options for selective sync to manage storage.
+- **File Synchronization**: Keeps your files synchronized across devices, with options for selective sync to manage storage
 
 ## Features You’ll Love
 
@@ -101,10 +101,10 @@ There are tasks available for everyone, such as:
 
 We’d love to hear from you! Whether you have questions, feedback, or want to get involved, here’s how to reach us:
 
-- **Chat**: [OpenCloud on Matrix](https://matrix.to/#/#opencloud:matrix.org) - Any discussion about OpenCloud.
-- **Email**: [community@opencloud.eu](mailto:community@opencloud.eu) – For any direct questions.
-- **Mastodon**: [OpenCloud on Mastodon](https://social.opencloud.eu/@OpenCloud) – Follow us for the latest updates and join the conversation.
-- **GitHub Discussions**: [Join the Discussion](https://github.com/orgs/opencloud-eu/discussions) – Ask questions, share ideas, and engage with the community.
+- **Chat**: [OpenCloud on Matrix](https://matrix.to/#/#opencloud:matrix.org) - Any discussion about OpenCloud
+- **Email**: [community@opencloud.eu](mailto:community@opencloud.eu) – For any direct questions
+- **Mastodon**: [OpenCloud on Mastodon](https://social.opencloud.eu/@OpenCloud) – Follow us for the latest updates and join the conversation
+- **GitHub Discussions**: [Join the Discussion](https://github.com/orgs/opencloud-eu/discussions) – Ask questions, share ideas, and engage with the community
 - **Security**: Check our [Security Policy](SECURITY.md)
 
 We’re excited to have you join us on this journey to build a secure, open, and community-driven cloud platform!
