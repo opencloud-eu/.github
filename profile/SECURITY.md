@@ -19,7 +19,7 @@ Your report should include:
 
 1. You will receive an initial acknowledgement as soon as possible.
 
-1. After that, member of the security team will confirm the vulnerability, determine its impact, follow-up with any questions, and coordinate the fix and publication.
+1. After that, a member of the security team will confirm the vulnerability, determine its impact, follow-up with any questions, and coordinate the fix and publication.
 
 1. The fix will be applied to the affected components of the project, tested, and distributed in the next security release. The vulnerability will be publicly announced after the release.
 
