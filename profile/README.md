@@ -74,9 +74,9 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 |  Platform  |  Download |
 |:----------|:----------|
 | Windows | [![Download from Microsoft Store](https://img.shields.io/badge/Window%20Store-Download-20434f?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAALUlEQVR4nGNgGDTgP3YQCsUYYNSA/1jDIBQLloFiDDmaGIANjEbjfxLCYMAAALcKH8M0mI3sAAAAAElFTkSuQmCC)](https://apps.microsoft.com/detail/9pbx43hcmldq?mode=direct) |
-| macOS Apple Silicon | [![Download arm pkg](https://img.shields.io/badge/Apple%20Silicon-Download-20434f?logo=Apple&logoColor=white)](https://github.com/opencloud-eu/desktop/releases/download/v2.0.0/OpenCloud_Desktop-v2.0.0-macos-clang-arm64.pkg) |
-| macOS Intel | [![Download pkg](https://img.shields.io/badge/Apple%20Intel-Download-20434f?logo=Apple&logoColor=white)](https://github.com/opencloud-eu/desktop/releases/download/v2.0.0/OpenCloud_Desktop-v2.0.0-macos-clang-x86_64.pkg) |
-| Linux | [![Download AppImage](https://img.shields.io/badge/AppImage-Download-20434f?logo=Linux&logoColor=white)](https://github.com/opencloud-eu/desktop/releases/download/v2.0.0/OpenCloud_Desktop-v2.0.0-linux-gcc-x86_64.AppImage) |
+| macOS Apple Silicon | [![Download arm pkg](https://img.shields.io/badge/Apple%20Silicon-Download-20434f?logo=Apple&logoColor=white)](https://github.com/opencloud-eu/desktop/releases/download/v3.0.3/OpenCloud_Desktop-v3.0.3-macos-clang-arm64.pkg) |
+| macOS Intel | [![Download pkg](https://img.shields.io/badge/Apple%20Intel-Download-20434f?logo=Apple&logoColor=white)](https://github.com/opencloud-eu/desktop/releases/download/v3.0.3/OpenCloud_Desktop-v3.0.3-macos-clang-x86_64.pkg) |
+| Linux | [![Download AppImage](https://img.shields.io/badge/AppImage-Download-20434f?logo=Linux&logoColor=white)](https://github.com/opencloud-eu/desktop/releases/download/v3.0.3/OpenCloud_Desktop-v3.0.3-linux-gcc-x86_64.AppImage) |
 
 
 ### 📱 Download Mobile App
