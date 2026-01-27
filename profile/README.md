@@ -10,7 +10,7 @@
   •
   <a href="https://github.com/orgs/opencloud-eu/discussions">Discussions</a>
   •
-  <a href="https://docs.opencloud.eu/docs/admin/welcome/datasheet">Datasheet</a>
+  <a href="https://docs.opencloud.eu/docs/admin/datasheet/">Datasheet</a>
   •
   <a href="https://docs.opencloud.eu/">Documentation</a>
   </h3>
