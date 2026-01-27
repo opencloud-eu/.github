@@ -24,4 +24,3 @@ Your report should include:
 1. The fix will be applied to the affected components of the project, tested, and distributed in the next security release. The vulnerability will be publicly announced after the release.
 
 Thank you for your help!
-
