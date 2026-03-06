@@ -10,7 +10,7 @@
   •
   <a href="https://github.com/orgs/opencloud-eu/discussions">Discussions</a>
   •
-  <a href="https://docs.opencloud.eu/docs/admin/welcome/datasheet">Datasheet</a>
+  <a href="https://docs.opencloud.eu/docs/admin/datasheet/">Datasheet</a>
   •
   <a href="https://docs.opencloud.eu/">Documentation</a>
   </h3>
@@ -45,14 +45,14 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 ### 🐻 Web Frontend
 
 - **Framework**: Built using _Vue.js_ and _TypeScript_
-- **Design**: Offers a clean and intuitive interface for easy navigation and file management.
-- **Functionality**: Allows seamless file uploads, downloads, sharing, and real-time collaboration.
-- **Customization**: Enables you to personalize your Interface  with themes and extensions.
+- **Design**: Offers a clean and intuitive interface for easy navigation and file management
+- **Functionality**: Allows seamless file uploads, downloads, sharing, and real-time collaboration
+- **Customization**: Enables you to personalize your Interface  with themes and extensions
 
 ### 🖥️ Desktop Client
 
 - **Cross-Platform**: Available for Windows, macOS, and Linux
-- **File Synchronization**: Keeps your files synchronized across devices, with options for selective sync to manage storage.
+- **File Synchronization**: Keeps your files synchronized across devices, with options for selective sync to manage storage
 
 ## Features You’ll Love
 
@@ -74,9 +74,9 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 |  Platform  |  Download |
 |:----------|:----------|
 | Windows | [![Download from Microsoft Store](https://img.shields.io/badge/Window%20Store-Download-20434f?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAALUlEQVR4nGNgGDTgP3YQCsUYYNSA/1jDIBQLloFiDDmaGIANjEbjfxLCYMAAALcKH8M0mI3sAAAAAElFTkSuQmCC)](https://apps.microsoft.com/detail/9pbx43hcmldq?mode=direct) |
-| macOS Apple Silicon | [![Download arm pkg](https://img.shields.io/badge/Apple%20Silicon-Download-20434f?logo=Apple&logoColor=white)](https://github.com/opencloud-eu/desktop/releases/download/v2.0.0/OpenCloud_Desktop-v2.0.0-macos-clang-arm64.pkg) |
-| macOS Intel | [![Download pkg](https://img.shields.io/badge/Apple%20Intel-Download-20434f?logo=Apple&logoColor=white)](https://github.com/opencloud-eu/desktop/releases/download/v2.0.0/OpenCloud_Desktop-v2.0.0-macos-clang-x86_64.pkg) |
-| Linux | [![Download AppImage](https://img.shields.io/badge/AppImage-Download-20434f?logo=Linux&logoColor=white)](https://github.com/opencloud-eu/desktop/releases/download/v2.0.0/OpenCloud_Desktop-v2.0.0-linux-gcc-x86_64.AppImage) |
+| macOS Apple Silicon | [![Download arm pkg](https://img.shields.io/badge/Apple%20Silicon-Download-20434f?logo=Apple&logoColor=white)](https://github.com/opencloud-eu/desktop/releases/download/v3.0.3/OpenCloud_Desktop-v3.0.3-macos-clang-arm64.pkg) |
+| macOS Intel | [![Download pkg](https://img.shields.io/badge/Apple%20Intel-Download-20434f?logo=Apple&logoColor=white)](https://github.com/opencloud-eu/desktop/releases/download/v3.0.3/OpenCloud_Desktop-v3.0.3-macos-clang-x86_64.pkg) |
+| Linux | [![Download AppImage](https://img.shields.io/badge/AppImage-Download-20434f?logo=Linux&logoColor=white)](https://github.com/opencloud-eu/desktop/releases/download/v3.0.3/OpenCloud_Desktop-v3.0.3-linux-gcc-x86_64.AppImage) |
 
 
 ### 📱 Download Mobile App
@@ -84,7 +84,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 |  Platform  | Download                                                                                                                                                                                         |
 |:----------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Android | [![Download on Google Play Store](https://img.shields.io/badge/Google_Play-Download-20434f?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=eu.opencloud.android)  [![F-Droid Version](https://img.shields.io/badge/FDroid-Download-20434f?logo=fdroid&logoColor=white)](https://f-droid.org/packages/eu.opencloud.android/)|
-| iOS | [![Download on App Store](https://img.shields.io/badge/App%20Store-Download-20434f?logo=Appstore&logoColor=white)](https://apps.apple.com/de/app/id6743121005)                                   |
+| iOS | [![Download on App Store](https://img.shields.io/badge/App%20Store-Download-20434f?logo=Appstore&logoColor=white)](https://apps.apple.com/us/app/opencloud-your-data-anywhere/id6743121005)                                   |
 
 
 ## Roadmap
@@ -94,17 +94,17 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 
 There are tasks available for everyone, such as:
 - Translation: You can assist in translating the UI through [Transifex](https://explore.transifex.com/opencloud-eu/opencloud-eu/) platform
-- You can shape the documentation at [docs.opencloud.eu](https://docs.opencloud.eu/docs/user/intro) through the following repository: [docs](https://github.com/opencloud-eu/docs)
+- You can shape the documentation at [docs.opencloud.eu](https://docs.opencloud.eu/docs/user/) through the following repository: [docs](https://github.com/opencloud-eu/docs)
 
 
 ## Contact Us
 
 We’d love to hear from you! Whether you have questions, feedback, or want to get involved, here’s how to reach us:
 
-- **Chat**: [OpenCloud on Matrix](https://matrix.to/#/#opencloud:matrix.org) - Any discussion about OpenCloud.
-- **Email**: [community@opencloud.eu](mailto:community@opencloud.eu) – For any direct questions.
-- **Mastodon**: [OpenCloud on Mastodon](https://social.opencloud.eu/@OpenCloud) – Follow us for the latest updates and join the conversation.
-- **GitHub Discussions**: [Join the Discussion](https://github.com/orgs/opencloud-eu/discussions) – Ask questions, share ideas, and engage with the community.
+- **Chat**: [OpenCloud on Matrix](https://matrix.to/#/#opencloud:matrix.org) - Any discussion about OpenCloud
+- **Email**: [community@opencloud.eu](mailto:community@opencloud.eu) – For any direct questions
+- **Mastodon**: [OpenCloud on Mastodon](https://social.opencloud.eu/@OpenCloud) – Follow us for the latest updates and join the conversation
+- **GitHub Discussions**: [Join the Discussion](https://github.com/orgs/opencloud-eu/discussions) – Ask questions, share ideas, and engage with the community
 - **Security**: Check our [Security Policy](SECURITY.md)
 
 We’re excited to have you join us on this journey to build a secure, open, and community-driven cloud platform!
