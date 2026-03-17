@@ -37,7 +37,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 
 ### ☁️ Server Backend
 
-- **Programming Language and APIs**: Developed in _Go_; Speaks _WebDAV_, _gRPC_, Microsofts RESTful web API _Graph_ , _OCS_, _OCM_ 1.1 and _OpenID Connect_  
+- **Programming Language and APIs**: Developed in _Go_; Speaks _WebDAV_, _gRPC_, Microsoft’s RESTful web API _Graph_, _OCS_, _OCM_ 1.1, and _OpenID Connect_  
 - **Performance:** Runs efficiently on a Raspberry Pi for low energy costs and scales effortlessly to handle massive projects in a data center
 - **Architecture**: Built with a microservices approach
 
