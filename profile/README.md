@@ -15,7 +15,8 @@
   <a href="https://docs.opencloud.eu/">Documentation</a>
   </h3>
 
-![Screenshot of the OpenCloud web UI showcasing its capabilities.](https://raw.githubusercontent.com/opencloud-eu/.github/refs/heads/main/profile/web-ui-gallery-view-optimized.jpg)
+<img width="2578" height="1730" alt="Screenshot of the OpenCloud UI showing demo files" src="https://github.com/user-attachments/assets/e72a587c-3959-4d10-8807-d3f3f49dabc1" />
+
 
 OpenCloud is an open-source project that gives you a secure and private way to store, access, and share your files.
 
