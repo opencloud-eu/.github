@@ -1,5 +1,5 @@
 
-# AI Contributions
+# AI Assisted Contributions
 
 AI usage is causing challenges for all open source projects, and thus also for OpenCloud.
 This document defines guidelines regarding how we work with AI and how we ask contributors to work with it. 
@@ -15,41 +15,43 @@ These points can be summarized in a fundamental principle for OpenCloud in relat
 
 >*OpenCloud is a project driven by responsible individuals. Despite all concerns regarding the multifaceted impacts of AI on society and its implications for the free software movement, we are committed to taking a positive view of the use of AI as a tool to accelerate and optimize our work. However, we expect that human work habits and processes will always take precedence. A person must be held accountable for every contribution.*
 
-Requirements are further specified below. Contributions that do not comply with these requirements will be rejected without further discussion.
+Requirements are further specified below. Contributions to any part of the project are highly appreciated, but those that do not comply with these requirements can be rejected without further discussion.
 
-## Fit to the Project
+## Issues
 
-Before submitting a PR to any repository of OpenCloud, think about its size and fit to the project. That is a major factor on how careful the PR needs to be prepared and how maintainers look at it.
+If you use AI to create issue reports, it is important to keep in mind that there is a human supposed to read it. People are easily overloaded by details, which quickly renders the generated issue completely useless.
 
-### Bug Fixes
-Bug fixes in form of "one-liners", typo fixes, fixes to translations and such are always very appreciated. Never think "that is too trivial to submit", it is not.
+To avoid that, make sure to remember the following AI specific rules:
 
-### Refactorings
-Bigger changes that fix misbehaviour, refactor parts of the codebase are also appreciated, but be careful. Have tests and keep changes small. Possibly ask before submitting what the maintainers think of your idea.
+* Keep issue reports short. Avoid details that are not important to fix the specific problem.
+* Separate details from the the issue overview.
+* Be exact and avoid unspecific information.
 
-### Feature Additions
-Yes, we love it, but we also apply the rules here, as we take the responsibility to maintain code that we include into the project. Try to structure the changes you plan into multiple steps to make it easier to understand and review. Try to consider alternatives and document your decisions (ADR).
-
-Most important: make sure to talk before you invest work and tokens. There is a chance that we will not take your contribution even if it is formally great because it does not fit the roadmap.
-
-### "Scratch your itch"
-"Scratching your own itch" and pushing the results upstream is in general a great motivation to contribute to open source projects. OpenCloud supports that idea. 
-However, we have to keep the main direction of the project in mind, so we can not accept every "special purpose" feature.
-
-Make sure to find a balance between functions that are good for everybody and your own needs. You will have to keep private patches for some of your additions. OpenCloud comes with a [web extension system](https://docs.opencloud.eu/de/docs/dev/web/extension-system/) to make independently maintained extensions easy.
+Always work through a generated text before using it as issue report.
 
 ## Pull Requests
 
-Contributions to any part of the project are highly appreciated. To submit a contribution via Github pull requests, the following points need to be considered:
+To submit a contribution via Github pull requests, the following points need to be considered:
 
-1. YOU are responsible for what you submit, not your agent. Make sure you completely understand what you submit. Be able to answer questions. Be open about the way you use AI. 
+1. YOU are responsible for what you submit, not your agent. Make sure you completely understand what you submit. Be able to answer questions. Declare which AI you used to assist you, and how you used it. Be aware of potential licensing- and copyright issues AI generated code can inject.
 2. Keep PRs short. The shorter the better, as that is easier for humans. Split code contributions to multiple PRs (e.g. separate refactors from changes introducing new features). Invest time in finding logical portions of bigger contributions and reference the PRs accordingly.
-3. Authorship is for humans, not tools. Code assistants and such should not be described in commits using tags like "Co-authored-by" or similar. Nor must they be listed as primary author. 
-4. Be sensitive about others time. Review AI generated texts to be **human friendly**: Keep descriptions short and concise. Separate important things from details and verify with your own understanding. Another person should understand your idea instantly. For example, consider splitting your comments to a summary on top and detailed description below.
-5. Check your contribution: Review your AI generated PR carefully before submitting it. Abstain from copy & paste. It is YOU who submits it, not an AI. Maintain your contributor reputation.
-6. Add useful comments, tests and documentation additions to your contribution. AI can be a great help for that.
+3. Authorship is for humans, not tools. Code assistants should not be described in commits using tags like "Co-authored-by" or similar. Nor must they be listed as primary author.
+4. Be sensitive about others time. Review AI generated texts to be **human friendly**: Keep descriptions short and concise. Separate important things from details and verify with your own understanding. Another person should understand your idea instantly. For example, consider splitting your comments to a summary on top and detailed description below. Beware that generated text are often long and unspecific.
+5. Check your contribution: Review your AI generated PR carefully before submitting it. Abstain from copy & paste. It is YOU who submits it. Maintain your contributor reputation. Never submit generated code that you do not understand or you disagree with.
 
-These rules are mostly soft. But maintainership considers to put hard limits behind some of them in the CI which results in automatic decline of PRs in Github.
+### Attribution
+
+When AI tools contribute, proper attribution helps track the evolving role of AI in the development process. Inspired by the guidelines [described in the Linux kernel docs](https://docs.kernel.org/process/coding-assistants.html), contributions should include an `Assisted-by` tag in the following format:
+
+`Assisted-by: AGENT_NAME:MODEL_VERSION [TOOL1] [TOOL2]`
+
+- `AGENT_NAME` is the name of the AI tool or framework
+- `MODEL_VERSION` is the specific model version used
+- `[TOOL1] [TOOL2]` are optional specialized analysis tools used
+
+### Enforcement
+
+These rules are mostly soft, and the whole topic is still floating. But maintainership considers to put hard limits behind some of them in the CI which results in automatic decline of PRs in Github.
 
 ## Human interaction
 
