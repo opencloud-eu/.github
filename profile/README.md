@@ -20,19 +20,18 @@
 
 OpenCloud is an open-source project that gives you a secure and private way to store, access, and share your files.
 
-**Benefits**
+**What is OpenCloud?**
 
-| 🤝 **Collaboration**               | 🔒 **Data Privacy**              | ⚙️ **Simplicity**                          |
+| 🤝 **Collaboration and Sharing**               | 🔒 **Data Privacy**              | ⚙️ **Simplicity**                          |
 |------------------------------------|----------------------------------|--------------------------------------------|
-| OpenCloud provides tools to help everyone work together, no matter where they are. | Your data stays with you, reducing the risk of unauthorized access or third-party breaches. | Minimize maintenance efforts while bringing the convenience of SaaS to your self-hosted cloud on-premises. |
+| With OpenCloud people or AI can work together, with everybody with or without account and without version chaos.| Data stays under your control, reducing the risk of unauthorized access or third-party breaches. | Everybody can use it. No documentation reading required. Supported by automation, useful defaults and AI where needed. |
 
 
 ## How To Get Started
 
-- **[Docker Compose](https://docs.opencloud.eu/docs/admin/getting-started/container/docker-compose-local)** 🌟 Full-blown feature set including web office and full-text search 
-- **[Docker](https://docs.opencloud.eu/docs/admin/getting-started/container/docker)** Classic docker setup 
-- **[Bare-Metal](https://docs.opencloud.eu/docs/admin/getting-started/other/bare-metal)** Manual, minimalist setup with essential features 
-
+- Get a quick impression of OpenCloud on the [demo server](https://demo.opencloud.eu)
+- Install your own installation via **[Docker Compose](https://docs.opencloud.eu/docs/admin/getting-started/container/docker-compose-local)** 🌟 Full-blown feature set including web office and full-text search
+- Find [deployment options](https://docs.opencloud.eu/docs/admin/getting-started/)
 
 ## What’s Inside?
 
@@ -93,10 +92,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 
 ## Ways to Collaborate
 
-There are tasks available for everyone, such as:
-- Translation: You can assist in translating the UI through [Transifex](https://explore.transifex.com/opencloud-eu/opencloud-eu/) platform
-- You can shape the documentation at [docs.opencloud.eu](https://docs.opencloud.eu/docs/user/) through the following repository: [docs](https://github.com/opencloud-eu/docs)
-
+There are ways to contribute for everyone. Please refer to the [Contribution Guidelines](https://github.com/opencloud-eu/opencloud/blob/main/CONTRIBUTING.md) and the [AI Guidelines](https://github.com/opencloud-eu/opencloud/blob/main/AI_GUIDELINE.md) for details.
 
 ## Contact Us
 
