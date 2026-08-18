@@ -92,7 +92,7 @@ OpenCloud is an open-source project that gives you a secure and private way to s
 
 ## Ways to Collaborate
 
-There are ways to contribute for everyone. Please refer to the [Contribution Guidelines](https://github.com/opencloud-eu/opencloud/blob/main/CONTRIBUTING.md) and the [AI Guidelines](https://github.com/opencloud-eu/opencloud/blob/main/AI_GUIDELINE.md) for details.
+There are ways to contribute for everyone. Please refer to the [Contribution Guidelines](https://github.com/opencloud-eu/opencloud/blob/main/CONTRIBUTING.md) and the [AI Guidelines](https://github.com/opencloud-eu/.github/blob/main/profile/AI_GUIDELINE.md) for details.
 
 ## Contact Us
 
